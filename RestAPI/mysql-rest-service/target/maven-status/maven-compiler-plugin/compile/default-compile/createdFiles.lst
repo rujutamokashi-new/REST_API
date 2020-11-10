@@ -1,0 +1,4 @@
+com\javahelps\restservice\entity\User.class
+com\javahelps\restservice\controller\UserController.class
+com\javahelps\restservice\Application.class
+com\javahelps\restservice\repository\UserRepository.class
